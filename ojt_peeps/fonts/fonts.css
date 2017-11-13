@@ -1,0 +1,43 @@
+/* Orbitron Regular */
+@font-face{
+ 	font-family: 'OrbitronRegular';
+	src: url('/Orbitron-Regular.woff') format('woff');
+}
+/* Open Sans */
+@font-face{
+	font-family: 'OpenSans';
+	src: url('OpenSans-Regular.ttf') format('truetype');
+}	
+
+@font-face{
+	font-family: 'OpenSans-Italic';
+	src: url('OpenSans-Italic.ttf') format('truetype');
+}	
+@font-face{
+	font-family: 'PlayReg';
+	src: url('Play-Regular.ttf') format('truetype');
+}
+/* Exo */
+@font-face{
+	font-family: 'ExoLight';
+	src: url('Exo-Light.ttf') format('truetype');
+}
+@font-face{
+	font-family: 'ExoMed';
+	src: url('Exo-Medium.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: 'QuicksandReg';
+	src: url('Quicksand-Regular.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: 'Rajdhani-Regular';
+	src: url('Rajdhani-Regular.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: 'Rajdhani-SemiBold';
+	src: url('Rajdhani-SemiBold.ttf') format('truetype');
+}
